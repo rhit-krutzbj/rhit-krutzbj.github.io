@@ -2,6 +2,6 @@
 
 }
 
-#brenPic {
-  width: 100px;
+img #brenPic {
+  max-width: 300px;
 }
