@@ -1,7 +1,14 @@
-#brenPicContainer {
+#picHeader {
   background-color: #880000;
   color: white;
   text-align: center;
+}
+
+#brenPicContainer {
+  border: 5px double #880000;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: none;
 }
 
 #brenPicContainer img {
