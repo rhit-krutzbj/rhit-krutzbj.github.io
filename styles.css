@@ -1,5 +1,7 @@
 #brenPicContainer {
-  
+  background-color: #880000;
+  color: white;
+  text-align: center;
 }
 
 #brenPicContainer img {
