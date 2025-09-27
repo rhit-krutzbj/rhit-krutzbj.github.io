@@ -5,6 +5,11 @@
 }
 
 #brenPicContainer {
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  
   border: 5px double #880000;
   border-radius: 5px;
   padding: 10px;
