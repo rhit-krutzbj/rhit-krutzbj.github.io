@@ -5,7 +5,7 @@ function setupListeners(){
   })
   let resumeButton = document.querySelector("#resumeButton")
   resumeButton.addEventListener("click", (e) => {
-    window.location.href = "https://rhit-krutzbj.github.io/resume.html"";
+    window.location.href = https://rhit-krutzbj.github.io/resume.html;
   })
   let portfolioButton = document.querySelector("#portfolioButton")
   portfolioButton.addEventListener("click", (e) => {
