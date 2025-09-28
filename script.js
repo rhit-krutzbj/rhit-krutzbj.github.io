@@ -16,5 +16,5 @@ function setupListeners(){
 window.addEventListener("load, (e) => {
   setupListeners();
 })
-
+// I couldn't get the buttons to work in time
 // https://developer.mozilla.org/en-US/docs/Web/API/Location
