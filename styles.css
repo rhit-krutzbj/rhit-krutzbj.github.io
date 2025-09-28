@@ -1,7 +1,23 @@
+:root{
+  --var(rose-hulman-red): #880000;
+}
 #picHeader {
-  background-color: #880000;
+  background-color: --var(rose-hulman-red);
   color: white;
   text-align: center;
+}
+
+#mainButton {
+  background-color: --var(rose-hulman-red);
+  color: white;
+}
+#resumeButton {
+  background-color: --var(rose-hulman-red);
+  color: white;
+}
+#portfolioButton {
+  background-color: --var(rose-hulman-red);
+  color: white;
 }
 
 #brenPicContainer {
