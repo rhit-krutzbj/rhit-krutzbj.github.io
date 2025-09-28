@@ -20,13 +20,15 @@
   
 #navBar #mainButton {
   color: black;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 #navBar #resumeButton {
   color: black;
+  margin-bottom: 15px;
 }
 #navBar #portfolioButton {
   color: black;
+  margin-bottom: 20px;
 }
 
 #brenPicContainer {
