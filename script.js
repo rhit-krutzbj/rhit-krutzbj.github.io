@@ -16,3 +16,5 @@ function setupListeners(){
 window.addEventListener("load, (e) => {
   setupListeners();
 })
+
+// https://developer.mozilla.org/en-US/docs/Web/API/Location
