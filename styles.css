@@ -1,23 +1,36 @@
 :root{
   --var(rose-hulman-red): #880000;
 }
+  
 #picHeader {
   background-color: --var(rose-hulman-red);
   color: white;
   text-align: center;
 }
 
-#mainButton {
+#navBar #mainButton {
   background-color: --var(rose-hulman-red);
   color: white;
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
 }
-#resumeButton {
+#navBar #resumeButton {
   background-color: --var(rose-hulman-red);
   color: white;
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
 }
-#portfolioButton {
+#navBar #portfolioButton {
   background-color: --var(rose-hulman-red);
   color: white;
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #brenPicContainer {
