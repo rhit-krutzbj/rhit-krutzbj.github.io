@@ -7,30 +7,27 @@
   color: white;
   text-align: center;
 }
-
+  
+#navBar {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  height: 50px;
+  background-color: --var(rose-hulman-red);
+  margin: 0;
+}
+  
 #navBar #mainButton {
   background-color: --var(rose-hulman-red);
   color: white;
-  display: block;
-  float: none;
-  margin-left: auto;
-  margin-right: auto;
 }
 #navBar #resumeButton {
   background-color: --var(rose-hulman-red);
   color: white;
-  display: block;
-  float: left;
-  margin-left: auto;
-  margin-right: auto;
 }
 #navBar #portfolioButton {
   background-color: --var(rose-hulman-red);
   color: white;
-  display: block;
-  float: left;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 #brenPicContainer {
