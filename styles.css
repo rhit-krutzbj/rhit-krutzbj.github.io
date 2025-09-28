@@ -15,11 +15,12 @@
   height: 50px;
   background-color: --var(rose-hulman-red);
   margin: 0;
+  gap: 20px;
 }
   
 #navBar #mainButton {
   background-color: --var(rose-hulman-red);
-  color: white;
+  color: black;
 }
 #navBar #resumeButton {
   background-color: --var(rose-hulman-red);
