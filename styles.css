@@ -19,16 +19,13 @@
 }
   
 #navBar #mainButton {
-  background-color: ##880000;
   color: black;
 }
 #navBar #resumeButton {
-  background-color: ##880000;
-  color: black;
+  color: red;
 }
 #navBar #portfolioButton {
-  border: 5px single #880000;
-  color: black;
+  color: ##880000;
 }
 
 #brenPicContainer {
