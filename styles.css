@@ -11,25 +11,24 @@
 #navBar {
   display: flex;
   justify-content: center;
-  align-items: flex-start;
-  height: 1px;
+  align-items: center;
+  height: 30px;
   background-color: ##880000;
-  margin: 3px;
+  margin: 0px;
   gap: 20px;
 }
   
 #navBar #mainButton {
-  background-color: --var(rose-hulman-red);
+  background-color: ##880000;
   color: black;
-  vertical-align: top;
 }
 #navBar #resumeButton {
   background-color: ##880000;
-  color: white;
+  color: black;
 }
 #navBar #portfolioButton {
-  background-color: --var(rose-hulman-red);
-  color: white;
+  border: 5px single #880000;
+  color: black;
 }
 
 #brenPicContainer {
