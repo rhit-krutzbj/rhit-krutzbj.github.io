@@ -12,9 +12,9 @@
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  height: 20px;
+  height: 1px;
   background-color: ##880000;
-  margin: 0;
+  margin: 3px;
   gap: 20px;
 }
   
