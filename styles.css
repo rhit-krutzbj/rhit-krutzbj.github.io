@@ -23,7 +23,7 @@
   color: black;
 }
 #navBar #resumeButton {
-  background-color: --var(rose-hulman-red);
+  background-color: ##880000;
   color: white;
 }
 #navBar #portfolioButton {
