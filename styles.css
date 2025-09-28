@@ -21,6 +21,7 @@
 #navBar #mainButton {
   background-color: --var(rose-hulman-red);
   color: black;
+  vertical-align: top;
 }
 #navBar #resumeButton {
   background-color: ##880000;
