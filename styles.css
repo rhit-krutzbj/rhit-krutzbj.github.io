@@ -12,8 +12,8 @@
   display: flex;
   justify-content: center;
   align-items:center;
-  height: 50px;
-  background-color: --var(rose-hulman-red);
+  height: 20px;
+  background-color: ##880000;
   margin: 0;
   gap: 20px;
 }
